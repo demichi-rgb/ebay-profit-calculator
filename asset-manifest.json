@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ebay-profit-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/ebay-profit-calculator/static/js/main.f7631f3b.js",
+    "static/js/488.25b329d2.chunk.js": "/ebay-profit-calculator/static/js/488.25b329d2.chunk.js",
+    "index.html": "/ebay-profit-calculator/index.html",
+    "main.e6c13ad2.css.map": "/ebay-profit-calculator/static/css/main.e6c13ad2.css.map",
+    "main.f7631f3b.js.map": "/ebay-profit-calculator/static/js/main.f7631f3b.js.map",
+    "488.25b329d2.chunk.js.map": "/ebay-profit-calculator/static/js/488.25b329d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f7631f3b.js"
+  ]
+}
